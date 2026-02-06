@@ -53,7 +53,7 @@ Projeto integrador desenvolvido no Curso Técnico em Desenvolvimento de Sistemas
 
 - 📍 Resende – RJ  
 - ✉️ Email: kadhu.assisribeiro@gmail.com  
-- 💼 LinkedIn: (adicione o link do seu LinkedIn aqui)
+- 💼 LinkedIn: https://www.linkedin.com/in/kadhu-correia-9176b23a4/
 
 ---
 
