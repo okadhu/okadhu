@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Kadhu 
 
-Sou **Desenvolvedor Júnior Back-end**, com foco em **Back-end**, formado em **Curso Técnico em Desenvolvimento de Sistemas pelo Firjan SENAI RJ**.
+Sou **Desenvolvedor Júnior**, com foco em **Back-end**, formado em **Curso Técnico em Desenvolvimento de Sistemas pelo Firjan SENAI RJ**.
 
 Atualmente busco oportunidade como **Desenvolvedor Júnior Back-end** ou **Estágio em TI**, onde eu possa evoluir tecnicamente e contribuir com soluções eficientes.
 
