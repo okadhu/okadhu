@@ -19,7 +19,7 @@ Utilizo **Git e GitHub** para versionamento de código e **VS Code** como princi
 ## 🛠️ Tecnologias e Ferramentas
 
 - Python  
-- Java  
+- JavaScript  
 - PHP com Laravel  
 - Dart e Flutter  
 - MySQL  
